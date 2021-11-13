@@ -1,4 +1,9 @@
 body{
     justify-content: center;
     text-align: center;
+    background-color: royalblue;
+
+}
+img{
+    height: 200px;
 }
